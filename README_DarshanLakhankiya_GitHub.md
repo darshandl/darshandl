@@ -22,15 +22,14 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoftpowerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 Visualization Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0076BD?style=flat-square&logo=alteryx&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-4479A1?style=flat-square&logo=microsoft&logoColor=white)
-![Office 365](https://img.shields.io/badge/Office%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0076BD?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/PowerQuery-4479A1?style=for-the-badge)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,8 +38,8 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Platforms
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
