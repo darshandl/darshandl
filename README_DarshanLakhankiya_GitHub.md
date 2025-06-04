@@ -53,7 +53,7 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 ### 📈 [Customer Retention Trends (Tableau)](https://public.tableau.com/app/profile/darshan.lakhankiya/vizzes)
 > Tableau project showcasing churn analysis and segmentation insights across customer demographics.
 
-> 📁 More dashboards and visualizations are available in my [GitHub Portfolio](https://github.com/darshandl/data-analytics-dashboards)
+> 📁 More dashboards and visualizations are available in my [GitHub Portfolio](https://github.com/darshandl/data-analytics-dashboard)
 
 ---
 
