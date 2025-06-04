@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF,4600A0&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h2 align="center">Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h2>
+<h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h3>
 
 ---
 
