@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:5271ff&height=180&section=header&text=Darshan%20Lakhankiya&fontSize=38&fontAlignY=35&desc=Data%20Analyst%20|%20BI%20Analyst%20|%20Data%20Scientist%20|%20Visualization%20Enthusiast&descAlignY=51&animation=fadeIn" />
+</p>
 
-<h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist | Visualization Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <a href="mailto:lakhankiyadarshan32@gmail.com">📧 Email</a> •
@@ -23,7 +25,7 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white])
 
 ### 📊 Visualization Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
