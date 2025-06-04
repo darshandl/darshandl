@@ -1,6 +1,3 @@
-# Generate enhanced GitHub profile README with added experience and styled sections
-
-enhanced_readme = """\
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0088FF,100:66CCFF&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h3>
@@ -98,8 +95,6 @@ With 4+ years of experience, I specialize in converting complex datasets into me
 > If you're looking for someone who can build dashboards that matter, automate insights, and bring data stories to life — I'm your person.
 
 ⭐ Feel free to explore my repos, star what inspires you, and connect on LinkedIn!
-
-"""
 
 readme_output_path = "/mnt/data/README_Darshan_Enhanced.md"
 with open(readme_output_path, "w") as f:
