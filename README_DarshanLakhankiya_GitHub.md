@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF,4600A0&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h3> 
+<h2 align="center">Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h2>
 
-</img>
+---
 
 <p align="center">
   <a href="mailto:lakhankiyadarshan32@gmail.com">📧 Email</a> •
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💼 About Me
+## 👨‍💻 Hi, I'm Darshan Lakhankiya
 
 With over 4 years of experience, I specialize in transforming complex datasets into compelling insights, building automated pipelines, and developing impactful BI dashboards using **Power BI**, **Tableau**, **SQL**, and **Python**. My work empowers organizations to make strategic decisions based on clean, structured, and dynamic data.
 
