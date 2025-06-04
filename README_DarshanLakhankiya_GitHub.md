@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Darshan Lakhankiya 👋</h1>
-<h3 align="center">🚀 Data Analyst | BI Developer | Python & SQL Enthusiast</h3>
+<h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist</h3>
 
 <p align="center">
   <a href="mailto:lakhankiyadarshan32@gmail.com">📧 Email</a> •
