@@ -1,11 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Darshan%20Lakhankiya&fontSize=40&fontColor=ffffff&animation=fadeIn">
 
-<h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h3>
+<h3 align="center">🚀 Data Analyst | BI Analyst | Data Scientist | Cloud & Visualization Enthusiast</h3> 
+
+</img>
 
 <p align="center">
-  <a href="mailto:lakhankiyadarshan32@gmail.com"><img src="https://img.shields.io/badge/Email-Darshan-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/darshanlakhankiya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://public.tableau.com/app/profile/darshan.lakhankiya/vizzes"><img src="https://img.shields.io/badge/Tableau-Dashboards-orange?style=flat-square&logo=tableau"></a>
+  <a href="mailto:lakhankiyadarshan32@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/darshanlakhankiya/">💼 LinkedIn</a> •
+  <a href="https://public.tableau.com/app/profile/darshan.lakhankiya/vizzes">📊 Tableau Dashboards</a>
 </p>
 
 ---
