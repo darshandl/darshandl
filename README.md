@@ -47,7 +47,7 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 
 ## 🧠 Featured Projects
 
-### 🔷 [FEMA Emergency Recovery Dashboard (Power BI)](https://app.powerbigov.us/view?r=eyJrIjoiZjk0MWQwNTEtNzI4Yy00YmQ4LWJjYWItNDkxNzNmOTFmMWNmIiwidCI6IjljZTBkZTYxLTk4NTctNDlhMi1iNDBjLTNhOWNiOWY4ZjRkYyJ9)
+### 🔷 [FEMA Emergency Recovery Dashboard (Power BI)](https://github.com/darshandl/grey-sky-dashboard)
 > Dynamic Power BI dashboard that monitors federal disaster recovery grants, project obligations, and zone-level restoration metrics.
 
 ### 📈 [Customer Retention Trends (Tableau)](https://public.tableau.com/app/profile/darshan.lakhankiya/vizzes)
