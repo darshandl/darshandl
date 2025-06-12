@@ -48,11 +48,10 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 ## 🧠 Featured Projects
 
 ### 🔷 [FEMA Emergency Recovery Dashboard (Power BI)](https://github.com/darshandl/grey-sky-dashboard)
-> Dynamic Power BI dashboard that monitors federal disaster recovery grants, project obligations, and zone-level restoration metrics.
+> Real-time Power BI dashboard for Florida Emergency Management, integrating 30+ data sources to support disaster recovery during hurricanes and other Grey Sky events.
 
-### 📈 [Global Insights Dashboards (Tableau)](https://github.com/darshandl/data-analytics-dashboard)
-> Tableau project featuring dashboards on pollution trends, logistics performance, sales distribution, and product analysis across countries and time periods.
-
+### 📈 [Business & Sector Insights Dashboards (Tableau)](https://github.com/darshandl/data-analytics-dashboard)
+> Collection of interactive Tableau dashboards analyzing trends in sales, foreign investment, call center operations, automotive data, and employee behavior—built to uncover insights and enable data-driven decisions.
 ---
 
 ## 💼 Work Experience
