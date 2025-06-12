@@ -52,7 +52,7 @@ With over 4 years of experience, I specialize in transforming complex datasets i
 
 ### 📈 [Business & Sector Insights Dashboards (Tableau)](https://github.com/darshandl/Tableau-dashboard)
 > Collection of interactive Tableau dashboards analyzing trends in sales, foreign investment, call center operations, automotive data, and employee behavior—built to uncover insights and enable data-driven decisions.
-> #### [Another repo](https://github.com/darshandl/data-analytics-dashboard)
+> #### 📊 [Another repo](https://github.com/darshandl/data-analytics-dashboard)
 
 ---
 
